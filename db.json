@@ -1,14 +1,18 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  "sounds": {
+    "key_sound_list": [
+      {
+        "key_sound_id": 1,
+        "key_sound_name": "Ginger - Fresh",
+        "key_sound_url": "https://robohash.org/fugitidest.bmp?size=350x200&set=set1",
+        "version": 1
+      },
+      {
+        "key_sound_id": 2,
+        "key_sound_name": "Ginger",
+        "key_sound_url": "https://robohash.org/fugitidest.bmp?size=350x200&set=set1",
+        "version": 1
+      }
+    ]
   }
 }
