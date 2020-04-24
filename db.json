@@ -3,14 +3,20 @@
     "key_sound_list": [
       {
         "key_sound_id": 1,
-        "key_sound_name": "Ginger - Fresh",
+        "key_sound_name": "Piano1",
         "key_sound_url": "https://raw.githubusercontent.com/hiennv3192/test/test1/a.mp3",
         "version": 1
       },
       {
         "key_sound_id": 2,
-        "key_sound_name": "Ginger",
+        "key_sound_name": "Piano2",
         "key_sound_url": "https://raw.githubusercontent.com/hiennv3192/test/test1/f.mp3",
+        "version": 1
+      },
+      {
+        "key_sound_id": 3,
+        "key_sound_name": "Gun",
+        "key_sound_url": "https://raw.githubusercontent.com/hiennv3192/test/test1/gun.wav",
         "version": 1
       }
     ]
