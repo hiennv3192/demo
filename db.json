@@ -1,22 +1,22 @@
 {
-  "sounds": {
-    "key_sound_list": [
+  "keySound": {
+    "sounds": [
       {
-        "key_sound_id": 1,
-        "key_sound_name": "Piano1",
-        "key_sound_url": "https://raw.githubusercontent.com/hiennv3192/test/test1/a.mp3",
+        "id": 1,
+        "name": "Piano1",
+        "downloadUrl": "https://raw.githubusercontent.com/hiennv3192/test/test1/a.mp3",
         "version": 1
       },
       {
-        "key_sound_id": 2,
-        "key_sound_name": "Piano2",
-        "key_sound_url": "https://raw.githubusercontent.com/hiennv3192/test/test1/f.mp3",
+        "id": 2,
+        "name": "Piano2",
+        "downloadUrl": "https://raw.githubusercontent.com/hiennv3192/test/test1/f.mp3",
         "version": 1
       },
       {
-        "key_sound_id": 3,
-        "key_sound_name": "Gun",
-        "key_sound_url": "https://raw.githubusercontent.com/hiennv3192/test/test1/gun.wav",
+        "id": 3,
+        "name": "Gun",
+        "downloadUrl": "https://raw.githubusercontent.com/hiennv3192/test/test1/gun.wav",
         "version": 1
       }
     ]
