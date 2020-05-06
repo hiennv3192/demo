@@ -26,7 +26,7 @@
         "id": 4,
         "name": "Gun1",
         "downloadUrl": "https://raw.githubusercontent.com/hiennv3192/test/test1/gun.wav",
-        "isPremium": true,
+        "isPremium": false,
         "version": 1
       },
       {
