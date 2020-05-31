@@ -1,5 +1,5 @@
 {
-    "user" : {
+    "users" : {
         "id": "Id of the User",
         "name": "Name of the User",
         "avatar": "url of the User avatar",
