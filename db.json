@@ -1,6 +1,8 @@
 {
-    "id": "Id of the User",
-    "name": "Name of the User",
-    "avatar": "url of the User avatar",
-    "email": "Email of the user"
+    "user" : {
+        "id": "Id of the User",
+        "name": "Name of the User",
+        "avatar": "url of the User avatar",
+        "email": "Email of the user"
+    }
 }
