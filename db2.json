@@ -1,0 +1,27 @@
+{
+  "keySound": {
+    "sounds": [
+      {
+        "id": 1,
+        "name": "Piano1",
+        "downloadUrl": "https://raw.githubusercontent.com/hiennv3192/test/test1/a.mp3",
+        "isPremium": false,
+        "version": 1
+      },
+      {
+        "id": 2,
+        "name": "Piano2",
+        "downloadUrl": "https://raw.githubusercontent.com/hiennv3192/test/test1/f.mp3",
+        "isPremium": false,
+        "version": 1
+      },
+      {
+        "id": 3,
+        "name": "Gun",
+        "downloadUrl": "https://raw.githubusercontent.com/hiennv3192/test/test1/gun.wav",
+        "isPremium": true,
+        "version": 1
+      }
+    ]
+  }
+}
